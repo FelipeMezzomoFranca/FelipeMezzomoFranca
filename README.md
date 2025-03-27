@@ -1,5 +1,7 @@
 # 🌌 The Adventurer's Codex: Fezinn's Journey
 
+![Adventurer's GIF](https://64.media.tumblr.com/9440a50c0747a844f1602076e3f80cf8/tumblr_mwq2d3pCMV1t2xnu4o1_400.gif)
+
 ## 🛡️ Character Profile:
 > **Class:** Software Engineer Apprentice  
 > **Alignment:** Chaotic Good (Optimizes for creativity.)  
