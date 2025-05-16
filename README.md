@@ -10,12 +10,11 @@
 
 ### 🚀 Quest Log:
 - **Active Quests:**  
-  - *Navigating the Galaxy of Software Development:* One line of code at a time, I explore new tools, solve puzzles, and level up my skills daily.  
-  - *The C Programming Chronicles:* Diving deep into the world of **C** as part of my studies in **Software Engineering** at **UTFPR Dois Vizinhos**. Outside of class, I'm on a mission to master **C with the JUCE framework** to develop **VST plugins** in my free time. Audio programming? Fosho! 🎶💻  
+  - *Navigating the Galaxy of Front-end Development:* One line of code at a time.  
+  - *The C Programming Chronicles:* Diving deep into the world of **C** as part of my studies in **Software Engineering** at **UTFPR Dois Vizinhos**. Outside of class, I'm on a mission to master **front-end with React + TailwindCSS**. 💻  
 
 - **Completed Quests:**  
   - *HTML5 & CSS3:* Built a few sleek and responsive interfaces that brought designs to life.  
-  - *Canva Crafting:* Created visually stunning designs for projects and presentations.  
   - *Meta Ads Expedition:* Explored the realm of digital marketing and advertising strategies.  
   - *Photoshop Alchemy:* Mastered the art of image editing, graphic design and social media design.  
 
