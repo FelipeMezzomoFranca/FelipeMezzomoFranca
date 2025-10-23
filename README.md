@@ -1,56 +1,46 @@
-# 🌌 The Adventurer's Codex: Fezinn's Journey
-
-![Adventurer's GIF](https://64.media.tumblr.com/9440a50c0747a844f1602076e3f80cf8/tumblr_mwq2d3pCMV1t2xnu4o1_400.gif)
-
-## 🛡️ Character Profile:
-> **Class:** Software Engineer Apprentice  
-> **Alignment:** Chaotic Good (Optimizes for creativity.)  
+# ⚔️ Fezinn
+> “A cada commit, um novo checkpoint.”
 
 ---
 
-### 🚀 Quest Log:
-- **Active Quests:**  
-  - *Navigating the Galaxy of Front-end Development:* One line of code at a time.  
-  - *The C Programming Chronicles:* Diving deep into the world of **C** as part of my studies in **Software Engineering** at **UTFPR Dois Vizinhos**. Outside of class, I'm on a mission to master **front-end with React + TailwindCSS**. 💻  
+### 🧾 Ficha do Personagem
 
-- **Completed Quests:**  
-  - *HTML5 & CSS3:* Built a few sleek and responsive interfaces that brought designs to life.  
-  - *Meta Ads Expedition:* Explored the realm of digital marketing and advertising strategies.  
-  - *Photoshop Alchemy:* Mastered the art of image editing, graphic design and social media design.  
-
----
-
-### 🔧 Arsenal:
-> **Equipped Tools and Spells:**<br>
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)  
-[![Meta Ads](https://img.shields.io/badge/Meta-%231877F2.svg?style=for-the-badge&logo=meta&logoColor=white)](https://business.meta.com/)  
-[![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge)](https://www.adobe.com/products/photoshop.html)
+| Atributo | Valor |
+|-----------|--------|
+| 🧠 Classe | Engenheiro de Software |
+| ⚙️ Especialização | Desenvolvimento Web & Automação |
+| 🏰 Guilda | UTFPR - Campus Dois Vizinhos |
+| 🧩 Nível Atual | 18 |
+| 💬 Linguagens Conhecidas | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) |
+| ⚒️ Ferramentas Mágicas | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white) |
 
 ---
 
-### 📜 Lore: Random Dev Quote
+### 🗺️ Missão Atual
+> 🧭 *"Desenvolver habilidades e projetos que unam diversão e criatividade."*
 
-✨ **Daily Oracle's Wisdom:**  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🌍 Travel Logs: Connect with Me
-- **Guild Hall:** [GitHub - Fezinn](https://github.com/FelipeMezzomoFranca)  
-- **Tavern Tales:** [@og.fezin](https://www.instagram.com/og.fezin)  
-- **Messenger Owl:** [felipemezzomofranca@alunos.utfpr.edu.br](mailto:felipemezzomofranca@alunos.utfpr.edu.br)
+- 🔹 Trabalhando como **Social Media**  
+- 🔹 Estudando **Engenharia de Software** na UTFPR  
+- 🔹 Estudando **Front-End** 
 
 ---
 
-### 📅 Last Campfire Lit:
-> **Date:** 27/03/2025  
-> *Note: This adventurer updates their codex regularly to ensure all logs are accurate.*
+### 🏹 Pretensão
+
+> 💭 *"Ainda estou explorando a programação, buscando entender qual caminho realmente quero seguir."*
+
+Embora ainda não tenha decidido plenamente em que área quero me especializar, o **Front-End** tem sido a rota mais promissora.  
+
+Meu objetivo é, em breve, trabalhar com **IA aplicada ao desenvolvimento**, unindo o código, a minha criatividade e as infinitas possibilidades que posso criar com a junção disso.  
 
 ---
 
-### ⚔️ Epic Credit:
-> **Adventurer's Name:** Fezinn  
-> **Adventurer's Guild:** [Fezinn's GitHub](https://github.com/FelipeMezzomoFranca)
+### 📜 Próximos Passos
+
+- ⚒️ Aprofundar estudos em **React**  
+- 🧩 Explorar o **Flutter**  
+- 🎨 Aprofundar mais ainda no **Tailwind CSS** para criar interfaces mais responsivas
+
+---
+
+> ⚔️ *"O aprendizado é a verdadeira aventura. O resto, é apenas XP."*
