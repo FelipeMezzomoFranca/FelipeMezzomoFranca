@@ -8,7 +8,6 @@
 | Atributo | Valor |
 |-----------|--------|
 | 🧠 Classe | Engenheiro de Software |
-| ⚙️ Especialização | Desenvolvimento Web & Automação |
 | 🏰 Guilda | UTFPR - Campus Dois Vizinhos |
 | 🧩 Nível Atual | 18 |
 | 💬 Linguagens Conhecidas | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) |
