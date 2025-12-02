@@ -17,4 +17,4 @@ Sou estudante de **Engenharia de Software na UTFPR – Dois Vizinhos** e estou n
 
 📩 **E-mail:** felipemezzomofranca@gmail.com  
 📸 **Instagram:** @og.fezin
-Se quiser trocar ideia, compartilhar conhecimento ou iniciar um projeto — só chamar.  
+Se quiser trocar ideia, compartilhar conhecimento ou iniciar um projeto é só chamar.  
