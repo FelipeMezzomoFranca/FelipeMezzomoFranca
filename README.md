@@ -1,7 +1,6 @@
-# 👋 Olá, eu sou o Fezinn
+# 👋 Olá, eu sou o Felipe
 
-Sou estudante de **Engenharia de Software na UTFPR – Dois Vizinhos** e sigo numa caminhada constante pra evoluir como desenvolvedor.
-Tecnologia é o que move e construir coisas do zero é o que me motiva de verdade.
+Sou estudante de **Engenharia de Software na UTFPR – Dois Vizinhos** e estou numa caminhada constante pra evoluir como desenvolvedor.
 
 ---
 
