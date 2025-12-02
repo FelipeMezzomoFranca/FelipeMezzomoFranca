@@ -8,7 +8,7 @@ Tecnologia é o que move e construir coisas do zero é o que me motiva de verdad
 ## 🛠 Ferramentas e Tecnologias
 
 **Linguagens & Áreas que estudo hoje**
-- C & C#
+- C
 - HTML / CSS
 - Conceitos de Engenharia Reversa em apps/jogos (para fins educativos)
 
